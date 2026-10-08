@@ -68,7 +68,7 @@ The following external repositories are **not vendored**. Clone them under `exte
 
 | Directory | Upstream | Recorded commit |
 | --- | --- | --- |
-| `glare` | [biomed-AI/GLARE](https://github.com/biomed-AI/GLARE) | `fde2859ae03de1de1647c4720f6ed672bf524034` |
+| `glare` | [Celestite3/GLARE](https://github.com/Celestite3/GLARE) | `fde2859ae03de1de1647c4720f6ed672bf524034` |
 | `ac_active` | [wnsgk/AC-Active](https://github.com/wnsgk/AC-Active) | `71bbc315affee9ff3622f3d1fbafbb86380d0822` |
 | `chemscreener` | [Novartis/ChemScreener](https://github.com/Novartis/ChemScreener) | `b439341c9801e64d49934baec4288659d70f5d51` |
 | `traversing_chem_space` | [molML/traversing_chem_space](https://github.com/molML/traversing_chem_space) | `36a1ed85ddf607e3a0e080adb6097add61c8c235` |
