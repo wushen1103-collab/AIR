@@ -57,7 +57,7 @@ For an original single-task AIR gate run, first inspect available devices and us
 
 ```bash
 envs/air311/bin/python scripts/run_e10_dual_head_pilot.py --self-test-guards
-envs/air311/bin/python scripts/run_e10_dual_head_pilot.py --assays ALDH1 --seeds 47001 --methods AIR_p1_legacy_unc_neighbor_gate --prefix example_air --accelerator cpu --cpu-threads 4 --epochs 2 --timeout-sec 1800
+envs/air311/bin/python scripts/run_e10_dual_head_pilot.py --assays ALDH1 --seeds 47001 --methods AIR_p1_legacy_unc_neighbor_gate --prefix example_air --q-total-cap 192 --b1-total-cap 192 --q0-total-cap 64 --accelerator cpu --cpu-threads 4 --epochs 2 --timeout-sec 1800
 ```
 
 Do not launch batch GPU jobs merely because a device appears idle. The scripts include device validation and resume flags; validate one task, timeout and checkpoint recovery before parallel execution.

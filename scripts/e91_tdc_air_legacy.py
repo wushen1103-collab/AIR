@@ -36,11 +36,13 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--aid", choices=DEV_AIDS, required=True)
     p.add_argument("--seed", type=int, choices=range(47001, 47006), required=True)
-    p.add_argument("--gpu", type=int, choices=range(8), required=True)
+    p.add_argument("--gpu", type=int, required=True)
     p.add_argument("--preflight-only", action="store_true")
     p.add_argument("--fault-after-preflight", action="store_true")
     p.add_argument("--resume", action="store_true")
     args = p.parse_args()
+    if args.gpu < 0:
+        raise ValueError("GPU index must be non-negative")
     os.environ["CUDA_VISIBLE_DEVICES"] = str(args.gpu)
     os.environ["OMP_NUM_THREADS"] = "4"
     os.environ["MKL_NUM_THREADS"] = "4"
