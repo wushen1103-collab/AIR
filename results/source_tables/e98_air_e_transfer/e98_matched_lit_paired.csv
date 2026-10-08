@@ -1,0 +1,6 @@
+method,comparator,mean_assay_paired_delta_hits,bootstrap_assay_95ci_low,bootstrap_assay_95ci_high,assay_win_tie_loss
+AIR-E-transfer,RF/ECFP,-0.1273,-0.6364,0.4000,6/1/4
+AIR-E-transfer,ACActive-50e10,0.0182,-0.9091,0.6545,6/3/2
+AIR-E-transfer,GLARE-50e10,0.1455,-0.5091,0.8000,5/1/5
+AIR-E-transfer,Positive-Tversky-T1,0.2364,-0.0000,0.5091,5/4/2
+AIR-E-transfer,AIR-Legacy-2e,1.5636,0.3455,3.2182,8/1/2

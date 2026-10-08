@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "protocol": "E98_E15_matched_Q192",
+  "method": "AIR-E-transfer",
+  "assay": "MTORC1",
+  "seed": 47001,
+  "source_sha256": "147278ba320063f47825926e7f2b7d58879aa402900573b0892dbed2761e5086",
+  "initial_sha256": "0b4737407013aa5fa97f70efaa26fbf0b35e946153ec4805723bd758dd56a5c5",
+  "q0": 64,
+  "Q": 192,
+  "batch_size": 64,
+  "params": [
+    0.15,
+    0.1
+  ],
+  "trajectory_sha256": "4c6aa8ecac6150d90165c4b712e3f5fc8753bd9bea6337f5349f2f3636f98990",
+  "query_sha256": "21afc664da66d72044a728f14c562a9be7fd4a344660b4f63f1cf36322a34d3f",
+  "initial_hits": 2,
+  "final_hits": 6,
+  "implementation": "frozen E74-E rule transferred without LIT-PCBA parameter tuning"
+}

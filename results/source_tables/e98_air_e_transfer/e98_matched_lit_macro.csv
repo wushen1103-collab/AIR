@@ -1,0 +1,12 @@
+rank,method,n_assays,n_seeds_each,macro_mean_hits
+1,RF/ECFP,11,5,5.0909
+2,AIR-E-transfer,11,5,4.9636
+3,ACActive-50e10,11,5,4.9455
+4,GLARE-50e10,11,5,4.8182
+5,Positive-Tversky-T1,11,5,4.7273
+6,Positive-Tanimoto,11,5,4.6909
+7,TcsAL-MLP-Exploitation-50e10,11,5,4.5455
+8,TcsAL-MLP-BALD-50e10,11,5,4.4545
+9,AIR-Legacy-2e,11,5,3.4000
+10,ChemScreener-50e10,11,5,2.9273
+11,Random,11,5,2.1273

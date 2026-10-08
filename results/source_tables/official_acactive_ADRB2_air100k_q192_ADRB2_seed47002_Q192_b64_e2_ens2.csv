@@ -1,0 +1,4 @@
+train_cycle,train_binary_accuracy,train_balanced_accuracy,train_roc_auc,train_precision,train_tpr,train_tp,train_fn,train_fp,train_tn,screen_cycle,screen_binary_accuracy,screen_balanced_accuracy,screen_roc_auc,screen_precision,screen_tpr,screen_tp,screen_fn,screen_fp,screen_tn,total_hit_discover,total_mol_screen,enrichment_factor
+0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1,64,0.9968598913422718
+1,0.4531,0.4468,0.4897,0.3929,0.3793,11,18,17,18,1,0.4986,0.4989,0.4975,0.4989,0.3067,15347,34691,15417,34481,1,128,0.9943227925512648
+2,0.5156,0.5113,0.5264,0.5571,0.5571,39,31,31,27,2,0.5012,0.5019,0.5003,0.5001,0.8292,41322,8510,41308,8732,1,192,0.9917985752684848

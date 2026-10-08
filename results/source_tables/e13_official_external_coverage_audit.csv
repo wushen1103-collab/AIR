@@ -1,0 +1,6 @@
+method_label,baseline_group,n_assays_any,n_assays_complete_5seed,complete_assays,partial_assays,coverage_requirement_status,provenance
+Official-AC-Active-ginl-cliff-air100k,Official author-code direct competitor (100k-screen subprotocol),11,11,ADRB2 ALDH1 FEN1 GBA IDH1 KAT2A MAPK1 MTORC1 OPRK1 PKM2 VDR,,full_11_assays,self-rerun official code; rows specify source_table/provenance
+Official-ChemScreener-BalancedRanking,Official author-code direct competitor,11,11,ADRB2 ALDH1 FEN1 GBA IDH1 KAT2A MAPK1 MTORC1 OPRK1 PKM2 VDR,,full_11_assays,self-rerun official code; rows specify source_table/provenance
+Official-GLARE-ginl-grpo-air100k,Official author-code direct competitor (100k-screen subprotocol),11,11,ADRB2 ALDH1 FEN1 GBA IDH1 KAT2A MAPK1 MTORC1 OPRK1 PKM2 VDR,,full_11_assays,self-rerun official code; rows specify source_table/provenance
+Official-AC-Active-ginl-cliff,Official author-code direct competitor,1,1,ALDH1,,partial_or_sanity_only,self-rerun official code; rows specify source_table/provenance
+Official-GLARE-ginl-grpo,Official author-code direct competitor,1,1,ALDH1,,partial_or_sanity_only,self-rerun official code; rows specify source_table/provenance

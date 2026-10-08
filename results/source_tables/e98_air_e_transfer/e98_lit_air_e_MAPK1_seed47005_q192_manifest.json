@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "protocol": "E98_E15_matched_Q192",
+  "method": "AIR-E-transfer",
+  "assay": "MAPK1",
+  "seed": 47005,
+  "source_sha256": "505e2476d8cbd8373924031420ddf28136b71883519bedfc9b9ccfd779bcb021",
+  "initial_sha256": "6e352dd24444db3a7ef2b439f227f5921e3fb828c8055fb3ff269cafec8c6a47",
+  "q0": 64,
+  "Q": 192,
+  "batch_size": 64,
+  "params": [
+    0.15,
+    0.1
+  ],
+  "trajectory_sha256": "0d2b6329ceebb191e04dd37e3bcaaca999a6e8d20d2d54a9d7fc127042bbf575",
+  "query_sha256": "e38c5f299475b12d4bf7df16727c1e38f94c3b5ed6ef78960f4066baab018159",
+  "initial_hits": 1,
+  "final_hits": 1,
+  "implementation": "frozen E74-E rule transferred without LIT-PCBA parameter tuning"
+}

@@ -1,0 +1,6 @@
+ablation,mapped_method,macro_mean,sum_means,best_or_ties,interpretation
+Safe backbone only,AIR-SafeCluster,4.581818181818182,50.4,7,stable fallback without explicit uncertainty-neighbor rescue
+Legacy similarity only,AIR-SimGate-v2,4.745454545454546,52.2,8,"keeps old high-confidence similarity gate, no guarded uncertainty rescue"
+Uncertainty-neighbor only / no safe-sim guard,AIR-UncNeighborGate,5.109090909090909,56.2,9,tests uncertainty-neighbor rescue without legacy-union repair
+Always rescue,X4-HitNeighbor,3.7454545454545456,41.2,3,tests unconditional hit-neighbor behavior
+Full AIR,AIR-LegacyUncGate,5.236363636363636,57.6,11,legacy similarity union guarded uncertainty-neighbor rescue

@@ -1,0 +1,11 @@
+route,method,provenance,model_config,n_assays,macro_mean_hits,macro_mean_nef
+classic,RF/ECFP,project rerun of public algorithm,256-tree RF; ECFP2048,11,5.090909090909091,44.627993996096876
+recent same task,ACActive-50e10,official author code adapted to common pool,50 epochs; 10 models,11,4.945454545454545,36.63117273487302
+recent same task,GLARE-50e10,official author code adapted to common pool,50 epochs; 10 models,11,4.818181818181818,37.44170650758384
+direct mechanism,Positive-Tversky-T1,project rerun of public algorithm,max positive-neighbor Tversky 1.0/0.25,11,4.7272727272727275,40.95477085589978
+direct mechanism,Positive-Tanimoto,project rerun of public algorithm,max positive-neighbor Tanimoto,11,4.6909090909090905,40.88813039737472
+recent same task,TcsAL-MLP-Exploitation-50e10,official author model/acquisition/loop with pool/initial adapter,50 epochs; 10 models; author exploitation acquisition,11,4.545454545454546,39.390549222059015
+recent same task,TcsAL-MLP-BALD-50e10,official author model/acquisition/loop with pool/initial adapter,50 epochs; 10 models,11,4.454545454545454,37.934961205549634
+proposed,AIR-Legacy-2e,project method rerun,AIR Legacy; 2 epochs,11,3.4,29.658193663963836
+recent same task,ChemScreener-50e10,official author Chemprop/acquisition self-rerun within matched LightGBM B1 adapter,Balanced Ranking; 50 epochs; 10 models; LightGBM B1 prescreen=192,11,2.9272727272727277,24.087893608781336
+classic,Random,project rerun of public algorithm,label-only random,11,2.127272727272727,22.61815628387129

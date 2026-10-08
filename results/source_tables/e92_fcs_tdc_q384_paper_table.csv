@@ -1,0 +1,8 @@
+route,method,provenance,configuration,AID1798,AID463087,AID485290,macro_mean_hits
+classic,RF,project rerun of public algorithm,256-tree RF/ECFP,4.00 ± 2.55,20.00 ± 5.43,2.40 ± 1.52,8.8
+recent same task,AC-Active,official author code self-rerun,50 epochs; 10 models,3.80 ± 2.28,13.60 ± 5.37,2.20 ± 1.64,6.533
+recent same task,GLARE,official author code self-rerun,50 epochs; 10 models,3.80 ± 2.39,13.40 ± 5.32,2.20 ± 1.30,6.467
+direct mechanism,Neighbor,project rerun of public algorithm,positive Tanimoto,6.20 ± 2.77,17.40 ± 5.98,2.40 ± 1.52,8.667
+direct mechanism,Tversky-T1,project rerun of public algorithm,positive Tversky 1.0/0.25,7.00 ± 3.81,19.00 ± 5.83,2.40 ± 1.52,9.467
+AIR-family comparator,AIR-E,project method rerun,E78 author starts,5.60 ± 2.07,20.00 ± 3.61,2.80 ± 1.30,9.467
+proposed,AIR-Legacy,project method rerun,2 epochs; E78 author starts,4.20 ± 3.27,14.20 ± 4.15,2.00 ± 1.22,6.8

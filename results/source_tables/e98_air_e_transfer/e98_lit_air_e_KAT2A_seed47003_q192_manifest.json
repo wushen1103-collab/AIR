@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "protocol": "E98_E15_matched_Q192",
+  "method": "AIR-E-transfer",
+  "assay": "KAT2A",
+  "seed": 47003,
+  "source_sha256": "1ad8f5faf6c1b6ce4546a82dbc695dbbe0ee6d3fc0b98f4ae3acbf0fc23a9b56",
+  "initial_sha256": "057381d25cbbaf8d79ca42714e985d0f4408ed98e2aa4d7ee8838c78626d7579",
+  "q0": 64,
+  "Q": 192,
+  "batch_size": 64,
+  "params": [
+    0.15,
+    0.1
+  ],
+  "trajectory_sha256": "0d2b6329ceebb191e04dd37e3bcaaca999a6e8d20d2d54a9d7fc127042bbf575",
+  "query_sha256": "3acb3194cbee3ef5429294b1f3ab56375b12b351ffcb348c29947ef8c0b09e0b",
+  "initial_hits": 1,
+  "final_hits": 1,
+  "implementation": "frozen E74-E rule transferred without LIT-PCBA parameter tuning"
+}

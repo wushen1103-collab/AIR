@@ -1,0 +1,5 @@
+gate_reason,n,mean_ours_hits,mean_gain_vs_no_unc_rescue,mean_guard_gain_vs_unblocked,positive_gain_vs_no_unc_rescue,harm_vs_no_unc_rescue,positive_guard_gain_vs_unblocked,harm_guard_gain_vs_unblocked
+guarded_unc_neighbor,9,7.888888888888889,3.0,0.0,5,0,0,0
+legacy_similarity,7,4.428571428571429,0.0,0.42857142857142855,0,0,2,1
+safe_fallback,37,4.864864864864865,0.0,0.0,0,0,0,0
+unc_neighbor_blocked_by_safe_sim,2,3.0,0.0,2.0,0,0,1,0

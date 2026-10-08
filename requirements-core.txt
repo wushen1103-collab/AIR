@@ -1,0 +1,14 @@
+# Reproduction environment used for the AIR/Chemprop experiments (Python 3.11).
+# Graph author-code baselines have their own upstream environments.
+chemprop==2.1.0
+lightgbm==4.7.0
+numpy==1.26.4
+pandas==3.0.5
+pyarrow==25.0.1
+PyYAML==6.0.3
+rdkit==2026.3.6
+scikit-learn==1.9.0
+scipy==1.17.1
+torch==2.5.1
+tqdm==4.70.0
+pytest>=8,<10

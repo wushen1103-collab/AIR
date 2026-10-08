@@ -1,0 +1,122 @@
+assay,method,n_seeds,mean_hits,sd_hits,seeds,hits_by_seed,provenance
+ADRB2,ACActive-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,AIR-E-transfer,5,1.4000,0.5477,47001;47002;47003;47004;47005,1;2;1;2;1,project rerun of frozen TDC E74-E rule on E15 pool
+ADRB2,AIR-Legacy-2e,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,ChemScreener-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,GLARE-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,Positive-Tanimoto,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,Positive-Tversky-T1,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,RF/ECFP,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,Random,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,TcsAL-MLP-BALD-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ADRB2,TcsAL-MLP-Exploitation-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+ALDH1,ACActive-50e10,5,28.4000,13.6125,47001;47002;47003;47004;47006,38;33;14;43;14,see e96_matched_lit_final_status.csv
+ALDH1,AIR-E-transfer,5,24.4000,11.4368,47001;47002;47003;47004;47006,35;35;8;19;25,project rerun of frozen TDC E74-E rule on E15 pool
+ALDH1,AIR-Legacy-2e,5,15.8000,3.6332,47001;47002;47003;47004;47006,13;17;19;19;11,see e96_matched_lit_final_status.csv
+ALDH1,ChemScreener-50e10,5,16.6000,6.7305,47001;47002;47003;47004;47006,15;19;12;27;10,see e96_matched_lit_final_status.csv
+ALDH1,GLARE-50e10,5,22.0000,9.7980,47001;47002;47003;47004;47006,31;31;9;24;15,see e96_matched_lit_final_status.csv
+ALDH1,Positive-Tanimoto,5,23.2000,11.3446,47001;47002;47003;47004;47006,35;34;8;19;20,see e96_matched_lit_final_status.csv
+ALDH1,Positive-Tversky-T1,5,24.0000,11.0680,47001;47002;47003;47004;47006,34;35;8;21;22,see e96_matched_lit_final_status.csv
+ALDH1,RF/ECFP,5,25.6000,10.8305,47001;47002;47003;47004;47006,39;34;13;24;18,see e96_matched_lit_final_status.csv
+ALDH1,Random,5,10.2000,1.9235,47001;47002;47003;47004;47006,10;11;11;12;7,see e96_matched_lit_final_status.csv
+ALDH1,TcsAL-MLP-BALD-50e10,5,20.8000,10.7098,47001;47002;47003;47004;47006,33;29;6;20;16,see e96_matched_lit_final_status.csv
+ALDH1,TcsAL-MLP-Exploitation-50e10,5,20.6000,11.2827,47001;47002;47003;47004;47006,33;30;5;19;16,see e96_matched_lit_final_status.csv
+FEN1,ACActive-50e10,5,2.0000,0.7071,47001;47002;47003;47004;47005,2;2;1;2;3,see e96_matched_lit_final_status.csv
+FEN1,AIR-E-transfer,5,2.0000,0.7071,47001;47002;47003;47004;47005,2;2;3;2;1,project rerun of frozen TDC E74-E rule on E15 pool
+FEN1,AIR-Legacy-2e,5,1.8000,0.8367,47001;47002;47003;47004;47005,2;2;1;3;1,see e96_matched_lit_final_status.csv
+FEN1,ChemScreener-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+FEN1,GLARE-50e10,5,1.2000,0.4472,47001;47002;47003;47004;47005,1;2;1;1;1,see e96_matched_lit_final_status.csv
+FEN1,Positive-Tanimoto,5,1.8000,0.4472,47001;47002;47003;47004;47005,2;2;2;2;1,see e96_matched_lit_final_status.csv
+FEN1,Positive-Tversky-T1,5,2.4000,0.8944,47001;47002;47003;47004;47005,3;2;3;3;1,see e96_matched_lit_final_status.csv
+FEN1,RF/ECFP,5,3.6000,2.3022,47001;47002;47003;47004;47005,2;2;5;2;7,see e96_matched_lit_final_status.csv
+FEN1,Random,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+FEN1,TcsAL-MLP-BALD-50e10,5,1.2000,0.4472,47001;47002;47003;47004;47005,1;2;1;1;1,see e96_matched_lit_final_status.csv
+FEN1,TcsAL-MLP-Exploitation-50e10,5,1.6000,0.8944,47001;47002;47003;47004;47005,1;2;1;1;3,see e96_matched_lit_final_status.csv
+GBA,ACActive-50e10,5,5.0000,2.8284,47001;47002;47003;47004;47005,7;1;3;7;7,see e96_matched_lit_final_status.csv
+GBA,AIR-E-transfer,5,5.6000,2.6077,47001;47002;47003;47004;47005,7;1;6;7;7,project rerun of frozen TDC E74-E rule on E15 pool
+GBA,AIR-Legacy-2e,5,2.0000,1.7321,47001;47002;47003;47004;47005,1;1;5;1;2,see e96_matched_lit_final_status.csv
+GBA,ChemScreener-50e10,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;3;1;1,see e96_matched_lit_final_status.csv
+GBA,GLARE-50e10,5,5.8000,2.7749,47001;47002;47003;47004;47005,7;1;6;8;7,see e96_matched_lit_final_status.csv
+GBA,Positive-Tanimoto,5,5.8000,2.6833,47001;47002;47003;47004;47005,7;1;7;7;7,see e96_matched_lit_final_status.csv
+GBA,Positive-Tversky-T1,5,5.8000,2.6833,47001;47002;47003;47004;47005,7;1;7;7;7,see e96_matched_lit_final_status.csv
+GBA,RF/ECFP,5,5.4000,2.6077,47001;47002;47003;47004;47005,7;1;5;7;7,see e96_matched_lit_final_status.csv
+GBA,Random,5,1.2000,0.4472,47001;47002;47003;47004;47005,1;1;2;1;1,see e96_matched_lit_final_status.csv
+GBA,TcsAL-MLP-BALD-50e10,5,4.8000,3.0332,47001;47002;47003;47004;47005,7;1;2;7;7,see e96_matched_lit_final_status.csv
+GBA,TcsAL-MLP-Exploitation-50e10,5,5.2000,2.6833,47001;47002;47003;47004;47005,7;1;4;7;7,see e96_matched_lit_final_status.csv
+IDH1,ACActive-50e10,5,2.6000,0.8944,47001;47002;47003;47004;47005,3;3;3;1;3,see e96_matched_lit_final_status.csv
+IDH1,AIR-E-transfer,5,3.4000,1.3416,47001;47002;47003;47004;47005,4;4;4;1;4,project rerun of frozen TDC E74-E rule on E15 pool
+IDH1,AIR-Legacy-2e,5,1.4000,0.5477,47001;47002;47003;47004;47005,1;2;2;1;1,see e96_matched_lit_final_status.csv
+IDH1,ChemScreener-50e10,5,1.2000,0.4472,47001;47002;47003;47004;47005,1;2;1;1;1,see e96_matched_lit_final_status.csv
+IDH1,GLARE-50e10,5,2.2000,1.3038,47001;47002;47003;47004;47005,1;2;3;1;4,see e96_matched_lit_final_status.csv
+IDH1,Positive-Tanimoto,5,3.4000,1.3416,47001;47002;47003;47004;47005,4;4;4;1;4,see e96_matched_lit_final_status.csv
+IDH1,Positive-Tversky-T1,5,3.4000,1.3416,47001;47002;47003;47004;47005,4;4;4;1;4,see e96_matched_lit_final_status.csv
+IDH1,RF/ECFP,5,3.2000,1.3038,47001;47002;47003;47004;47005,4;4;4;1;3,see e96_matched_lit_final_status.csv
+IDH1,Random,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+IDH1,TcsAL-MLP-BALD-50e10,5,2.8000,1.0954,47001;47002;47003;47004;47005,3;4;3;1;3,see e96_matched_lit_final_status.csv
+IDH1,TcsAL-MLP-Exploitation-50e10,5,3.0000,1.2247,47001;47002;47003;47004;47005,4;4;3;1;3,see e96_matched_lit_final_status.csv
+KAT2A,ACActive-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,AIR-E-transfer,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,project rerun of frozen TDC E74-E rule on E15 pool
+KAT2A,AIR-Legacy-2e,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,ChemScreener-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,GLARE-50e10,5,1.2000,0.4472,47001;47002;47003;47004;47005,1;1;1;2;1,see e96_matched_lit_final_status.csv
+KAT2A,Positive-Tanimoto,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,Positive-Tversky-T1,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,RF/ECFP,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,Random,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+KAT2A,TcsAL-MLP-BALD-50e10,5,1.6000,0.5477,47001;47002;47003;47004;47005,2;1;2;2;1,see e96_matched_lit_final_status.csv
+KAT2A,TcsAL-MLP-Exploitation-50e10,5,1.6000,0.5477,47001;47002;47003;47004;47005,2;1;2;2;1,see e96_matched_lit_final_status.csv
+MAPK1,ACActive-50e10,5,3.4000,2.3022,47001;47002;47004;47005;47006,2;7;4;1;3,see e96_matched_lit_final_status.csv
+MAPK1,AIR-E-transfer,5,3.2000,1.9235,47001;47002;47004;47005;47006,2;6;4;1;3,project rerun of frozen TDC E74-E rule on E15 pool
+MAPK1,AIR-Legacy-2e,5,3.6000,3.1305,47001;47002;47004;47005;47006,3;9;3;1;2,see e96_matched_lit_final_status.csv
+MAPK1,ChemScreener-50e10,5,2.8000,2.0494,47001;47002;47004;47005;47006,6;3;3;1;1,see e96_matched_lit_final_status.csv
+MAPK1,GLARE-50e10,5,3.2000,1.9235,47001;47002;47004;47005;47006,3;6;4;1;2,see e96_matched_lit_final_status.csv
+MAPK1,Positive-Tanimoto,5,3.0000,1.5811,47001;47002;47004;47005;47006,2;5;4;1;3,see e96_matched_lit_final_status.csv
+MAPK1,Positive-Tversky-T1,5,3.2000,1.9235,47001;47002;47004;47005;47006,2;6;4;1;3,see e96_matched_lit_final_status.csv
+MAPK1,RF/ECFP,5,4.0000,3.3912,47001;47002;47004;47005;47006,2;9;6;1;2,see e96_matched_lit_final_status.csv
+MAPK1,Random,5,2.6000,1.8166,47001;47002;47004;47005;47006,4;5;2;1;1,see e96_matched_lit_final_status.csv
+MAPK1,TcsAL-MLP-BALD-50e10,5,3.2000,1.7889,47001;47002;47004;47005;47006,3;5;5;1;2,see e96_matched_lit_final_status.csv
+MAPK1,TcsAL-MLP-Exploitation-50e10,5,3.0000,2.0000,47001;47002;47004;47005;47006,2;6;4;1;2,see e96_matched_lit_final_status.csv
+MTORC1,ACActive-50e10,5,2.6000,1.8166,47001;47002;47003;47004;47005,5;2;4;1;1,see e96_matched_lit_final_status.csv
+MTORC1,AIR-E-transfer,5,3.2000,1.9235,47001;47002;47003;47004;47005,6;3;4;2;1,project rerun of frozen TDC E74-E rule on E15 pool
+MTORC1,AIR-Legacy-2e,5,2.6000,1.8166,47001;47002;47003;47004;47005,5;1;4;1;2,see e96_matched_lit_final_status.csv
+MTORC1,ChemScreener-50e10,5,1.8000,0.8367,47001;47002;47003;47004;47005,3;1;2;2;1,see e96_matched_lit_final_status.csv
+MTORC1,GLARE-50e10,5,2.8000,2.0494,47001;47002;47003;47004;47005,5;1;5;2;1,see e96_matched_lit_final_status.csv
+MTORC1,Positive-Tanimoto,5,2.4000,1.9494,47001;47002;47003;47004;47005,5;1;4;1;1,see e96_matched_lit_final_status.csv
+MTORC1,Positive-Tversky-T1,5,2.2000,1.3038,47001;47002;47003;47004;47005,4;1;3;2;1,see e96_matched_lit_final_status.csv
+MTORC1,RF/ECFP,5,2.8000,2.0494,47001;47002;47003;47004;47005,5;2;5;1;1,see e96_matched_lit_final_status.csv
+MTORC1,Random,5,1.2000,0.4472,47001;47002;47003;47004;47005,2;1;1;1;1,see e96_matched_lit_final_status.csv
+MTORC1,TcsAL-MLP-BALD-50e10,5,2.2000,1.6432,47001;47002;47003;47004;47005,4;1;4;1;1,see e96_matched_lit_final_status.csv
+MTORC1,TcsAL-MLP-Exploitation-50e10,5,2.2000,1.6432,47001;47002;47003;47004;47005,4;1;4;1;1,see e96_matched_lit_final_status.csv
+OPRK1,ACActive-50e10,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,see e96_matched_lit_final_status.csv
+OPRK1,AIR-E-transfer,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,project rerun of frozen TDC E74-E rule on E15 pool
+OPRK1,AIR-Legacy-2e,5,1.6000,1.3416,47001;47002;47003;47004;47005,1;1;1;1;4,see e96_matched_lit_final_status.csv
+OPRK1,ChemScreener-50e10,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+OPRK1,GLARE-50e10,5,1.6000,1.3416,47001;47002;47003;47004;47005,1;1;1;1;4,see e96_matched_lit_final_status.csv
+OPRK1,Positive-Tanimoto,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,see e96_matched_lit_final_status.csv
+OPRK1,Positive-Tversky-T1,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,see e96_matched_lit_final_status.csv
+OPRK1,RF/ECFP,5,2.2000,1.6432,47001;47002;47003;47004;47005,4;1;1;1;4,see e96_matched_lit_final_status.csv
+OPRK1,Random,5,1.0000,0.0000,47001;47002;47003;47004;47005,1;1;1;1;1,see e96_matched_lit_final_status.csv
+OPRK1,TcsAL-MLP-BALD-50e10,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,see e96_matched_lit_final_status.csv
+OPRK1,TcsAL-MLP-Exploitation-50e10,5,1.4000,0.8944,47001;47002;47003;47004;47005,1;1;1;1;3,see e96_matched_lit_final_status.csv
+PKM2,ACActive-50e10,5,5.0000,4.6368,47001;47002;47003;47004;47005,1;1;4;7;12,see e96_matched_lit_final_status.csv
+PKM2,AIR-E-transfer,5,6.6000,5.4129,47001;47002;47003;47004;47005,1;1;10;8;13,project rerun of frozen TDC E74-E rule on E15 pool
+PKM2,AIR-Legacy-2e,5,4.8000,4.4944,47001;47002;47003;47004;47005,1;1;12;5;5,see e96_matched_lit_final_status.csv
+PKM2,ChemScreener-50e10,5,3.2000,2.6833,47001;47002;47003;47004;47005,1;1;7;2;5,see e96_matched_lit_final_status.csv
+PKM2,GLARE-50e10,5,8.6000,6.5038,47001;47002;47003;47004;47005,1;2;14;13;13,see e96_matched_lit_final_status.csv
+PKM2,Positive-Tanimoto,5,6.6000,4.4497,47001;47002;47003;47004;47005,2;2;9;8;12,see e96_matched_lit_final_status.csv
+PKM2,Positive-Tversky-T1,5,5.6000,3.7815,47001;47002;47003;47004;47005,1;2;9;8;8,see e96_matched_lit_final_status.csv
+PKM2,RF/ECFP,5,5.0000,3.3912,47001;47002;47003;47004;47005,1;3;5;10;6,see e96_matched_lit_final_status.csv
+PKM2,Random,5,1.6000,0.5477,47001;47002;47003;47004;47005,2;1;1;2;2,see e96_matched_lit_final_status.csv
+PKM2,TcsAL-MLP-BALD-50e10,5,7.0000,6.0000,47001;47002;47003;47004;47005,1;1;7;13;13,see e96_matched_lit_final_status.csv
+PKM2,TcsAL-MLP-Exploitation-50e10,5,7.2000,5.7184,47001;47002;47003;47004;47005,1;1;10;12;12,see e96_matched_lit_final_status.csv
+VDR,ACActive-50e10,5,2.0000,1.7321,47001;47002;47003;47004;47005,1;1;1;5;2,see e96_matched_lit_final_status.csv
+VDR,AIR-E-transfer,5,2.4000,1.6733,47001;47002;47003;47004;47005,1;5;1;3;2,project rerun of frozen TDC E74-E rule on E15 pool
+VDR,AIR-Legacy-2e,5,1.8000,1.3038,47001;47002;47003;47004;47005,1;1;1;4;2,see e96_matched_lit_final_status.csv
+VDR,ChemScreener-50e10,5,1.2000,0.4472,47001;47002;47003;47004;47005,2;1;1;1;1,see e96_matched_lit_final_status.csv
+VDR,GLARE-50e10,5,3.4000,1.8166,47001;47002;47003;47004;47005,3;3;1;4;6,see e96_matched_lit_final_status.csv
+VDR,Positive-Tanimoto,5,2.0000,1.0000,47001;47002;47003;47004;47005,1;2;1;3;3,see e96_matched_lit_final_status.csv
+VDR,Positive-Tversky-T1,5,2.0000,1.0000,47001;47002;47003;47004;47005,1;2;1;3;3,see e96_matched_lit_final_status.csv
+VDR,RF/ECFP,5,2.2000,1.3038,47001;47002;47003;47004;47005,1;3;1;4;2,see e96_matched_lit_final_status.csv
+VDR,Random,5,1.6000,0.5477,47001;47002;47003;47004;47005,1;2;2;1;2,see e96_matched_lit_final_status.csv
+VDR,TcsAL-MLP-BALD-50e10,5,3.0000,1.2247,47001;47002;47003;47004;47005,3;4;1;4;3,see e96_matched_lit_final_status.csv
+VDR,TcsAL-MLP-Exploitation-50e10,5,3.2000,1.4832,47001;47002;47003;47004;47005,3;4;1;5;3,see e96_matched_lit_final_status.csv

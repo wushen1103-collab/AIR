@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "protocol": "E98_E15_matched_Q192",
+  "method": "AIR-E-transfer",
+  "assay": "ALDH1",
+  "seed": 47001,
+  "source_sha256": "ed1ebbba5f37f21a68d96c02ab9736bdcc1a98a1159bd0aeda1f49ab163379ed",
+  "initial_sha256": "b5ef7cbc65cbc6f4adf716d2e796e13ad591c27fcffd36f5ce51442c118a4707",
+  "q0": 64,
+  "Q": 192,
+  "batch_size": 64,
+  "params": [
+    0.15,
+    0.1
+  ],
+  "trajectory_sha256": "2090fcd25b11a1e6ee644c9ca1249ff9fb1bd98ebc63ce1802e44d3f5951fca1",
+  "query_sha256": "ef37f3ec84358e59b208cedab46993a2d480a7432d54c19ee6faffa4907dfe4f",
+  "initial_hits": 3,
+  "final_hits": 35,
+  "implementation": "frozen E74-E rule transferred without LIT-PCBA parameter tuning"
+}

@@ -1,0 +1,17 @@
+method_label,baseline_group,n_assays_reported,n_assays_complete_5seed,mean_over_reported_assay_means,median_over_reported_assay_means,sum_reported_means,avg_std,best_or_ties_on_reported,all11_complete
+AIR-LegacyUncGate,Ours,11,11,5.236363636363636,3.8,57.6,3.522110221203239,8,True
+AIR-SimGate-v2,AIR-family mechanism competitor,11,11,4.745454545454546,3.8,52.2,3.3776540899319474,5,True
+AIR-SafeCluster,Mechanism competitor / ablation,11,11,4.581818181818182,3.8,50.4,3.227557996088215,4,True
+AIR-HNDiv,Mechanism competitor / ablation,11,11,3.890909090909091,2.4,42.800000000000004,3.1673934317751335,1,True
+Official-AC-Active-ginl-cliff-air100k,Official author-code direct competitor (100k-screen subprotocol),11,11,3.7636363636363637,2.4,41.4,1.7828753671238808,2,True
+X4-HitNeighbor,Strong non-gated heuristic / direct neighbor baseline,11,11,3.7454545454545456,2.6,41.2,3.0605451201354956,2,True
+Official-GLARE-ginl-grpo-air100k,Official author-code direct competitor (100k-screen subprotocol),11,11,3.090909090909091,1.8,34.0,1.6791866251229743,0,True
+Official-ChemScreener-BalancedRanking,Official author-code direct competitor,11,11,3.0000000000000004,1.6,33.00000000000001,1.7507061399130819,1,True
+B10-AuditRule,Audit / candidate-rescue baseline,11,11,2.9818181818181824,1.6,32.800000000000004,1.585342367554893,1,True
+B1-Fixed,Classic method,11,11,2.854545454545454,1.6,31.399999999999995,1.2405859597336457,0,True
+X2-Diverse,Recent AL route proxy,11,11,2.0181818181818185,1.4,22.200000000000003,0.612809694068781,0,True
+X1-UCB,Recent AL route proxy,11,11,1.7272727272727273,1.0,19.0,0.4476628220526874,0,True
+X3-BalancedRank,Recent AL route proxy,11,11,1.6545454545454545,1.0,18.2,0.4748803480675355,0,True
+X0-Random,Classic method,11,11,1.6181818181818182,1.0,17.8,0.409502298033898,0,True
+Official-AC-Active-ginl-cliff,Official author-code direct competitor,1,1,10.6,10.6,10.6,2.3021728866442674,0,False
+Official-GLARE-ginl-grpo,Official author-code direct competitor,1,1,8.8,8.8,8.8,4.764451699828639,0,False

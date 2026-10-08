@@ -1,0 +1,17 @@
+Q,method_label,baseline_group,n_assays_reported,n_assays_complete_5seed,macro_mean_hits_reported,macro_mean_hits_complete_only,sum_mean_hits_reported,all11_complete
+48,AIR-LegacyUncGate,Ours,11,11,1.5818181818181818,1.5818181818181818,17.4,True
+48,AIR-SimGate-v2,AIR-family mechanism competitor,11,11,1.5818181818181818,1.5818181818181818,17.4,True
+48,X4-HitNeighbor,Strong non-gated heuristic / direct neighbor baseline,11,11,1.3636363636363635,1.3636363636363635,15.0,True
+48,X0-Random,Classic method,11,11,1.1454545454545455,1.1454545454545455,12.600000000000001,True
+96,X4-HitNeighbor,Strong non-gated heuristic / direct neighbor baseline,11,11,2.4181818181818184,2.4181818181818184,26.6,True
+96,AIR-LegacyUncGate,Ours,11,11,1.9818181818181815,1.9818181818181815,21.799999999999997,True
+96,AIR-SimGate-v2,AIR-family mechanism competitor,11,11,1.9818181818181815,1.9818181818181815,21.799999999999997,True
+96,X0-Random,Classic method,11,11,1.3454545454545455,1.3454545454545455,14.8,True
+192,AIR-LegacyUncGate,Ours,11,11,5.236363636363636,5.236363636363636,57.6,True
+192,AIR-SimGate-v2,AIR-family mechanism competitor,11,11,4.745454545454546,4.745454545454546,52.2,True
+192,X4-HitNeighbor,Strong non-gated heuristic / direct neighbor baseline,11,11,3.7454545454545456,3.7454545454545456,41.2,True
+192,X0-Random,Classic method,11,11,1.6181818181818182,1.6181818181818182,17.8,True
+384,AIR-SimGate-v2,AIR-family mechanism competitor,11,11,11.418181818181816,11.418181818181816,125.59999999999998,True
+384,AIR-LegacyUncGate,Ours,11,11,11.236363636363636,11.236363636363636,123.6,True
+384,X4-HitNeighbor,Strong non-gated heuristic / direct neighbor baseline,11,11,7.672727272727272,7.672727272727272,84.39999999999999,True
+384,X0-Random,Classic method,11,11,2.890909090909091,2.890909090909091,31.800000000000004,True

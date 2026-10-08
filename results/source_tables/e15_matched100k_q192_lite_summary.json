@@ -1,0 +1,74 @@
+{
+  "status": "pass",
+  "scope": "same author-code 100k screen pool and reconstructed identical 64-molecule initial sets; Q=192; 11 assays x 5 seeds",
+  "source": "all numbers are local reruns, not values copied from papers",
+  "graph_config": "lite",
+  "training_limit": "GLARE and AC-Active use 2 epochs x 2 ensembles, below the 50 x 10 recommended in their READMEs. This is only a compute-constrained comparison.",
+  "macro": [
+    {
+      "method": "AC-Active",
+      "macro_mean_hits": 3.5090909090909093,
+      "assay_sd": 4.050050504735601,
+      "mean_seed_sd": 1.8535081632548127
+    },
+    {
+      "method": "AIR",
+      "macro_mean_hits": 3.4,
+      "assay_sd": 4.268957718225843,
+      "mean_seed_sd": 1.7124201341702325
+    },
+    {
+      "method": "ChemScreener",
+      "macro_mean_hits": 2.854545454545455,
+      "assay_sd": 3.930486900210618,
+      "mean_seed_sd": 1.2766601423771644
+    },
+    {
+      "method": "GLARE",
+      "macro_mean_hits": 3.2181818181818183,
+      "assay_sd": 3.964295191283863,
+      "mean_seed_sd": 1.5256397625858433
+    }
+  ],
+  "paired_stats": [
+    {
+      "comparison": "AIR vs ChemScreener",
+      "mean_assay_paired_delta_hits": 0.5454545454545454,
+      "median_assay_paired_delta_hits": 0.4,
+      "bootstrap_95ci_low": 0.2727272727272727,
+      "bootstrap_95ci_high": 0.8727272727272727,
+      "exact_signflip_p": 0.0078125,
+      "paired_assay_dz": 1.0151136342327949,
+      "wins": 8,
+      "ties": 3,
+      "losses": 0,
+      "holm_p_across_3_external": 0.0234375
+    },
+    {
+      "comparison": "AIR vs GLARE",
+      "mean_assay_paired_delta_hits": 0.18181818181818182,
+      "median_assay_paired_delta_hits": 0.2,
+      "bootstrap_95ci_low": -0.41818181818181815,
+      "bootstrap_95ci_high": 0.7454545454545454,
+      "exact_signflip_p": 0.6015625,
+      "paired_assay_dz": 0.17662772846963026,
+      "wins": 6,
+      "ties": 2,
+      "losses": 3,
+      "holm_p_across_3_external": 1.0
+    },
+    {
+      "comparison": "AIR vs AC-Active",
+      "mean_assay_paired_delta_hits": -0.10909090909090904,
+      "median_assay_paired_delta_hits": 0.2,
+      "bootstrap_95ci_low": -0.9272727272727276,
+      "bootstrap_95ci_high": 0.6000000000000001,
+      "exact_signflip_p": 0.837890625,
+      "paired_assay_dz": -0.07984118528064602,
+      "wins": 6,
+      "ties": 1,
+      "losses": 4,
+      "holm_p_across_3_external": 1.0
+    }
+  ]
+}

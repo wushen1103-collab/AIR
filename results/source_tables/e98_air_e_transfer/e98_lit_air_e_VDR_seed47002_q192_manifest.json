@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "protocol": "E98_E15_matched_Q192",
+  "method": "AIR-E-transfer",
+  "assay": "VDR",
+  "seed": 47002,
+  "source_sha256": "0b590a9722117f90505cd9d458e7a3aa6a6b02593a96ca19c4147ef8bcae5e71",
+  "initial_sha256": "403000071f8a328463d4a5e5f013181b3ae6e3bbab2c8f3f6d78cb0baceb6dc9",
+  "q0": 64,
+  "Q": 192,
+  "batch_size": 64,
+  "params": [
+    0.15,
+    0.1
+  ],
+  "trajectory_sha256": "187610b45e05d5dbecc6e7cb597d584979f53f99af2138da93b9a7b2bb57edeb",
+  "query_sha256": "cb9ea521d60725de6ad327be0b046cb1e17f58723d010c377f53c45a853723a1",
+  "initial_hits": 1,
+  "final_hits": 5,
+  "implementation": "frozen E74-E rule transferred without LIT-PCBA parameter tuning"
+}

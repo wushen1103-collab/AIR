@@ -1,0 +1,221 @@
+assay,seed,method,hits,q_spent,source
+ADRB2,47001,AC-Active,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47001,AIR,1,192,rerun: AIR implementation
+ADRB2,47001,ChemScreener,1,192,rerun: matched author/code adapter
+ADRB2,47001,GLARE,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47002,AC-Active,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47002,AIR,1,192,rerun: AIR implementation
+ADRB2,47002,ChemScreener,1,192,rerun: matched author/code adapter
+ADRB2,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47003,AC-Active,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47003,AIR,1,192,rerun: AIR implementation
+ADRB2,47003,ChemScreener,1,192,rerun: matched author/code adapter
+ADRB2,47003,GLARE,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47004,AC-Active,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47004,AIR,1,192,rerun: AIR implementation
+ADRB2,47004,ChemScreener,1,192,rerun: matched author/code adapter
+ADRB2,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47005,AC-Active,1,192,"rerun: official author code, e2_ens2"
+ADRB2,47005,AIR,1,192,rerun: AIR implementation
+ADRB2,47005,ChemScreener,1,192,rerun: matched author/code adapter
+ADRB2,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+ALDH1,47001,AC-Active,27,192,"rerun: official author code, e2_ens2"
+ALDH1,47001,AIR,13,192,rerun: AIR implementation
+ALDH1,47001,ChemScreener,14,192,rerun: matched author/code adapter
+ALDH1,47001,GLARE,17,192,"rerun: official author code, e2_ens2"
+ALDH1,47002,AC-Active,10,192,"rerun: official author code, e2_ens2"
+ALDH1,47002,AIR,17,192,rerun: AIR implementation
+ALDH1,47002,ChemScreener,16,192,rerun: matched author/code adapter
+ALDH1,47002,GLARE,16,192,"rerun: official author code, e2_ens2"
+ALDH1,47003,AC-Active,13,192,"rerun: official author code, e2_ens2"
+ALDH1,47003,AIR,19,192,rerun: AIR implementation
+ALDH1,47003,ChemScreener,13,192,rerun: matched author/code adapter
+ALDH1,47003,GLARE,9,192,"rerun: official author code, e2_ens2"
+ALDH1,47004,AC-Active,18,192,"rerun: official author code, e2_ens2"
+ALDH1,47004,AIR,19,192,rerun: AIR implementation
+ALDH1,47004,ChemScreener,21,192,rerun: matched author/code adapter
+ALDH1,47004,GLARE,20,192,"rerun: official author code, e2_ens2"
+ALDH1,47006,AC-Active,8,192,"rerun: official author code, e2_ens2"
+ALDH1,47006,AIR,11,192,rerun: AIR implementation
+ALDH1,47006,ChemScreener,8,192,rerun: matched author/code adapter
+ALDH1,47006,GLARE,12,192,"rerun: official author code, e2_ens2"
+FEN1,47001,AC-Active,2,192,"rerun: official author code, e2_ens2"
+FEN1,47001,AIR,2,192,rerun: AIR implementation
+FEN1,47001,ChemScreener,1,192,rerun: matched author/code adapter
+FEN1,47001,GLARE,1,192,"rerun: official author code, e2_ens2"
+FEN1,47002,AC-Active,2,192,"rerun: official author code, e2_ens2"
+FEN1,47002,AIR,2,192,rerun: AIR implementation
+FEN1,47002,ChemScreener,1,192,rerun: matched author/code adapter
+FEN1,47002,GLARE,2,192,"rerun: official author code, e2_ens2"
+FEN1,47003,AC-Active,1,192,"rerun: official author code, e2_ens2"
+FEN1,47003,AIR,1,192,rerun: AIR implementation
+FEN1,47003,ChemScreener,1,192,rerun: matched author/code adapter
+FEN1,47003,GLARE,1,192,"rerun: official author code, e2_ens2"
+FEN1,47004,AC-Active,1,192,"rerun: official author code, e2_ens2"
+FEN1,47004,AIR,3,192,rerun: AIR implementation
+FEN1,47004,ChemScreener,1,192,rerun: matched author/code adapter
+FEN1,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+FEN1,47005,AC-Active,1,192,"rerun: official author code, e2_ens2"
+FEN1,47005,AIR,1,192,rerun: AIR implementation
+FEN1,47005,ChemScreener,1,192,rerun: matched author/code adapter
+FEN1,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+GBA,47001,AC-Active,7,192,"rerun: official author code, e2_ens2"
+GBA,47001,AIR,1,192,rerun: AIR implementation
+GBA,47001,ChemScreener,1,192,rerun: matched author/code adapter
+GBA,47001,GLARE,3,192,"rerun: official author code, e2_ens2"
+GBA,47002,AC-Active,1,192,"rerun: official author code, e2_ens2"
+GBA,47002,AIR,1,192,rerun: AIR implementation
+GBA,47002,ChemScreener,1,192,rerun: matched author/code adapter
+GBA,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+GBA,47003,AC-Active,5,192,"rerun: official author code, e2_ens2"
+GBA,47003,AIR,5,192,rerun: AIR implementation
+GBA,47003,ChemScreener,4,192,rerun: matched author/code adapter
+GBA,47003,GLARE,2,192,"rerun: official author code, e2_ens2"
+GBA,47004,AC-Active,7,192,"rerun: official author code, e2_ens2"
+GBA,47004,AIR,1,192,rerun: AIR implementation
+GBA,47004,ChemScreener,1,192,rerun: matched author/code adapter
+GBA,47004,GLARE,7,192,"rerun: official author code, e2_ens2"
+GBA,47005,AC-Active,7,192,"rerun: official author code, e2_ens2"
+GBA,47005,AIR,2,192,rerun: AIR implementation
+GBA,47005,ChemScreener,1,192,rerun: matched author/code adapter
+GBA,47005,GLARE,7,192,"rerun: official author code, e2_ens2"
+IDH1,47001,AC-Active,1,192,"rerun: official author code, e2_ens2"
+IDH1,47001,AIR,1,192,rerun: AIR implementation
+IDH1,47001,ChemScreener,1,192,rerun: matched author/code adapter
+IDH1,47001,GLARE,2,192,"rerun: official author code, e2_ens2"
+IDH1,47002,AC-Active,3,192,"rerun: official author code, e2_ens2"
+IDH1,47002,AIR,2,192,rerun: AIR implementation
+IDH1,47002,ChemScreener,1,192,rerun: matched author/code adapter
+IDH1,47002,GLARE,3,192,"rerun: official author code, e2_ens2"
+IDH1,47003,AC-Active,3,192,"rerun: official author code, e2_ens2"
+IDH1,47003,AIR,2,192,rerun: AIR implementation
+IDH1,47003,ChemScreener,1,192,rerun: matched author/code adapter
+IDH1,47003,GLARE,2,192,"rerun: official author code, e2_ens2"
+IDH1,47004,AC-Active,1,192,"rerun: official author code, e2_ens2"
+IDH1,47004,AIR,1,192,rerun: AIR implementation
+IDH1,47004,ChemScreener,1,192,rerun: matched author/code adapter
+IDH1,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+IDH1,47005,AC-Active,2,192,"rerun: official author code, e2_ens2"
+IDH1,47005,AIR,1,192,rerun: AIR implementation
+IDH1,47005,ChemScreener,1,192,rerun: matched author/code adapter
+IDH1,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47001,AC-Active,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47001,AIR,1,192,rerun: AIR implementation
+KAT2A,47001,ChemScreener,1,192,rerun: matched author/code adapter
+KAT2A,47001,GLARE,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47002,AC-Active,3,192,"rerun: official author code, e2_ens2"
+KAT2A,47002,AIR,1,192,rerun: AIR implementation
+KAT2A,47002,ChemScreener,1,192,rerun: matched author/code adapter
+KAT2A,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47003,AC-Active,2,192,"rerun: official author code, e2_ens2"
+KAT2A,47003,AIR,1,192,rerun: AIR implementation
+KAT2A,47003,ChemScreener,1,192,rerun: matched author/code adapter
+KAT2A,47003,GLARE,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47004,AC-Active,2,192,"rerun: official author code, e2_ens2"
+KAT2A,47004,AIR,1,192,rerun: AIR implementation
+KAT2A,47004,ChemScreener,1,192,rerun: matched author/code adapter
+KAT2A,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47005,AC-Active,1,192,"rerun: official author code, e2_ens2"
+KAT2A,47005,AIR,1,192,rerun: AIR implementation
+KAT2A,47005,ChemScreener,1,192,rerun: matched author/code adapter
+KAT2A,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+MAPK1,47001,AC-Active,3,192,"rerun: official author code, e2_ens2"
+MAPK1,47001,AIR,3,192,rerun: AIR implementation
+MAPK1,47001,ChemScreener,5,192,rerun: matched author/code adapter
+MAPK1,47001,GLARE,2,192,"rerun: official author code, e2_ens2"
+MAPK1,47002,AC-Active,4,192,"rerun: official author code, e2_ens2"
+MAPK1,47002,AIR,9,192,rerun: AIR implementation
+MAPK1,47002,ChemScreener,4,192,rerun: matched author/code adapter
+MAPK1,47002,GLARE,5,192,"rerun: official author code, e2_ens2"
+MAPK1,47004,AC-Active,4,192,"rerun: official author code, e2_ens2"
+MAPK1,47004,AIR,3,192,rerun: AIR implementation
+MAPK1,47004,ChemScreener,3,192,rerun: matched author/code adapter
+MAPK1,47004,GLARE,3,192,"rerun: official author code, e2_ens2"
+MAPK1,47005,AC-Active,1,192,"rerun: official author code, e2_ens2"
+MAPK1,47005,AIR,1,192,rerun: AIR implementation
+MAPK1,47005,ChemScreener,2,192,rerun: matched author/code adapter
+MAPK1,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+MAPK1,47006,AC-Active,1,192,"rerun: official author code, e2_ens2"
+MAPK1,47006,AIR,2,192,rerun: AIR implementation
+MAPK1,47006,ChemScreener,2,192,rerun: matched author/code adapter
+MAPK1,47006,GLARE,2,192,"rerun: official author code, e2_ens2"
+MTORC1,47001,AC-Active,5,192,"rerun: official author code, e2_ens2"
+MTORC1,47001,AIR,5,192,rerun: AIR implementation
+MTORC1,47001,ChemScreener,2,192,rerun: matched author/code adapter
+MTORC1,47001,GLARE,4,192,"rerun: official author code, e2_ens2"
+MTORC1,47002,AC-Active,1,192,"rerun: official author code, e2_ens2"
+MTORC1,47002,AIR,1,192,rerun: AIR implementation
+MTORC1,47002,ChemScreener,2,192,rerun: matched author/code adapter
+MTORC1,47002,GLARE,8,192,"rerun: official author code, e2_ens2"
+MTORC1,47003,AC-Active,4,192,"rerun: official author code, e2_ens2"
+MTORC1,47003,AIR,4,192,rerun: AIR implementation
+MTORC1,47003,ChemScreener,1,192,rerun: matched author/code adapter
+MTORC1,47003,GLARE,2,192,"rerun: official author code, e2_ens2"
+MTORC1,47004,AC-Active,1,192,"rerun: official author code, e2_ens2"
+MTORC1,47004,AIR,1,192,rerun: AIR implementation
+MTORC1,47004,ChemScreener,1,192,rerun: matched author/code adapter
+MTORC1,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+MTORC1,47005,AC-Active,1,192,"rerun: official author code, e2_ens2"
+MTORC1,47005,AIR,2,192,rerun: AIR implementation
+MTORC1,47005,ChemScreener,7,192,rerun: matched author/code adapter
+MTORC1,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47001,AC-Active,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47001,AIR,1,192,rerun: AIR implementation
+OPRK1,47001,ChemScreener,1,192,rerun: matched author/code adapter
+OPRK1,47001,GLARE,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47002,AC-Active,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47002,AIR,1,192,rerun: AIR implementation
+OPRK1,47002,ChemScreener,1,192,rerun: matched author/code adapter
+OPRK1,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47003,AC-Active,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47003,AIR,1,192,rerun: AIR implementation
+OPRK1,47003,ChemScreener,1,192,rerun: matched author/code adapter
+OPRK1,47003,GLARE,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47004,AC-Active,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47004,AIR,1,192,rerun: AIR implementation
+OPRK1,47004,ChemScreener,1,192,rerun: matched author/code adapter
+OPRK1,47004,GLARE,1,192,"rerun: official author code, e2_ens2"
+OPRK1,47005,AC-Active,3,192,"rerun: official author code, e2_ens2"
+OPRK1,47005,AIR,4,192,rerun: AIR implementation
+OPRK1,47005,ChemScreener,1,192,rerun: matched author/code adapter
+OPRK1,47005,GLARE,3,192,"rerun: official author code, e2_ens2"
+PKM2,47001,AC-Active,1,192,"rerun: official author code, e2_ens2"
+PKM2,47001,AIR,1,192,rerun: AIR implementation
+PKM2,47001,ChemScreener,2,192,rerun: matched author/code adapter
+PKM2,47001,GLARE,2,192,"rerun: official author code, e2_ens2"
+PKM2,47002,AC-Active,2,192,"rerun: official author code, e2_ens2"
+PKM2,47002,AIR,1,192,rerun: AIR implementation
+PKM2,47002,ChemScreener,1,192,rerun: matched author/code adapter
+PKM2,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+PKM2,47003,AC-Active,2,192,"rerun: official author code, e2_ens2"
+PKM2,47003,AIR,12,192,rerun: AIR implementation
+PKM2,47003,ChemScreener,9,192,rerun: matched author/code adapter
+PKM2,47003,GLARE,2,192,"rerun: official author code, e2_ens2"
+PKM2,47004,AC-Active,6,192,"rerun: official author code, e2_ens2"
+PKM2,47004,AIR,5,192,rerun: AIR implementation
+PKM2,47004,ChemScreener,2,192,rerun: matched author/code adapter
+PKM2,47004,GLARE,4,192,"rerun: official author code, e2_ens2"
+PKM2,47005,AC-Active,3,192,"rerun: official author code, e2_ens2"
+PKM2,47005,AIR,5,192,rerun: AIR implementation
+PKM2,47005,ChemScreener,2,192,rerun: matched author/code adapter
+PKM2,47005,GLARE,5,192,"rerun: official author code, e2_ens2"
+VDR,47001,AC-Active,3,192,"rerun: official author code, e2_ens2"
+VDR,47001,AIR,1,192,rerun: AIR implementation
+VDR,47001,ChemScreener,1,192,rerun: matched author/code adapter
+VDR,47001,GLARE,1,192,"rerun: official author code, e2_ens2"
+VDR,47002,AC-Active,2,192,"rerun: official author code, e2_ens2"
+VDR,47002,AIR,1,192,rerun: AIR implementation
+VDR,47002,ChemScreener,1,192,rerun: matched author/code adapter
+VDR,47002,GLARE,1,192,"rerun: official author code, e2_ens2"
+VDR,47003,AC-Active,1,192,"rerun: official author code, e2_ens2"
+VDR,47003,AIR,1,192,rerun: AIR implementation
+VDR,47003,ChemScreener,1,192,rerun: matched author/code adapter
+VDR,47003,GLARE,1,192,"rerun: official author code, e2_ens2"
+VDR,47004,AC-Active,5,192,"rerun: official author code, e2_ens2"
+VDR,47004,AIR,4,192,rerun: AIR implementation
+VDR,47004,ChemScreener,3,192,rerun: matched author/code adapter
+VDR,47004,GLARE,4,192,"rerun: official author code, e2_ens2"
+VDR,47005,AC-Active,2,192,"rerun: official author code, e2_ens2"
+VDR,47005,AIR,2,192,rerun: AIR implementation
+VDR,47005,ChemScreener,1,192,rerun: matched author/code adapter
+VDR,47005,GLARE,1,192,"rerun: official author code, e2_ens2"
